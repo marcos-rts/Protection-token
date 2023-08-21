@@ -1,0 +1,5 @@
+
+*.properties
+*.mf
+/EscondendoId/nbproject/private/
+/EscondendoId/build/
