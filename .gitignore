@@ -1,5 +1,8 @@
 *.xml
 *.properties
 *.mf
-/EscondendoId/nbproject/private/
+/EscondendoId/nbproject/
 /EscondendoId/build/
+/EscondendoId/lib/
+/EscondendoId/test/
+
