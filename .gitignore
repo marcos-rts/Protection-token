@@ -1,4 +1,4 @@
-
+*.xml
 *.properties
 *.mf
 /EscondendoId/nbproject/private/
